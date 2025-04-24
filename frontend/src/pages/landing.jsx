@@ -26,7 +26,9 @@ export default function LandingPage() {
                     }} role='button'>
                         <p>Login</p>
                     </div>
+
                     <p onClick={() => router("/summarizer")}>🎬 AI Summarizer</p>
+
                 </div>
             </nav>
 
